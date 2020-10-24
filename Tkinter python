@@ -1,0 +1,4 @@
+from tkinter import *
+root = tk
+label = Label(self.root, main.py)
+root.mainloop
