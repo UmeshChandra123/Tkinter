@@ -1,4 +1,6 @@
 from tkinter import *
-root = tk
-label = Label(self.root, main.py)
-root.mainloop
+root = tk()
+label = Label(root, text = "Hacktoberfest", bg = "white", fg = "black", font = ("Rockwell",20,"bold
+")) 
+label.pack()
+root.mainloop()
